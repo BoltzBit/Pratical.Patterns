@@ -1,0 +1,72 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\mateus.silva\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\mateus.silva\\pessoal\\projects\\Pratical.Patterns\\src\\Pratical.Patterns.Structural\\Pratical.Patterns.Structural.csproj",
+      "projectName": "Pratical.Patterns.Structural",
+      "projectPath": "C:\\Users\\mateus.silva\\pessoal\\projects\\Pratical.Patterns\\src\\Pratical.Patterns.Structural\\Pratical.Patterns.Structural.csproj",
+      "packagesPath": "C:\\Users\\mateus.silva\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mateus.silva\\pessoal\\projects\\Pratical.Patterns\\src\\Pratical.Patterns.Structural\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mateus.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\mateus.silva\\iatec\\7You.Team\\7You.Team.Library.Net\\7You.Team.Shared.Select.Dto\\bin\\Debug": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.110\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
